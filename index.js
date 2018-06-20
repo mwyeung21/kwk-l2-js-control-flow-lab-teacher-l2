@@ -24,7 +24,10 @@ function switchOnCharmFromTip(tip)
       break
     }
     case "not as generous":
+    {
       return "T"
+      break
+    }
   }
   
 }
