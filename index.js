@@ -23,7 +23,8 @@ function switchOnCharmFromTip(tip)
       return "Thank you so much."
       break
     }
-    case ""
+    case "not as generous":
+      return "T"
   }
   
 }
